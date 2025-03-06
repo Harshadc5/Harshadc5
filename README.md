@@ -10,7 +10,7 @@
 - 💬 Ask me about AI, Machine Learning, and Web Development.
 
 
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/harshad05) | [GitHub](https://github.com/Harshadc5)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harshad05/) | [GitHub](https://github.com/Harshadc5)  
 
 
 ---
