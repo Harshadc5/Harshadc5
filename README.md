@@ -5,7 +5,7 @@
 👋 **Hello, I'm Harshad Chaudhari!**  
 🎓 **B.Tech in Computer Science Engineering (Specialization in Artificial Intelligence and Machine Learning) | 2nd Year | VIT Bhopal**  
 
-I am an aspiring **Artificial Intelligence & Machine Learning Engineer** with a strong foundation in **Web Development** and **Human-Computer Interaction**. My primary focus is on **safe AI implementation**, **risk management**, and **responsible AI deployment**.  
+I am an aspiring **Artificial Intelligence & Machine Learning Engineer** with a strong foundation in **Web Development** and **Human-Computer Interaction**. My primary focus is on **safe AI implementation**, **Risk Management**, and **Responsible AI Deployment**.  
 
 🔹 **Areas of Expertise:**  
 - **AI/ML** – Predictive Modeling, Deep Learning, Neural Networks  
