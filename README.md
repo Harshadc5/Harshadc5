@@ -12,10 +12,6 @@
 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)  
 
----
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
 
 ---
 ## 🛠️ Tech Stack
