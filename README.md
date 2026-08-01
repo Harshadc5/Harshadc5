@@ -10,9 +10,9 @@ md = r"""<div align="center">
 ### Building software that solves real-world problems with AI.
 
 <p>
-<a href="https://rtfolio-three-beige-2l8e4l9ouk.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-2563EB?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/harshad05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:harshadchaudhari2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rtfolio-three-beige-2l8e4l9ouk.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshad05"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:harshadchaudhari2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Harshadc5"><img src="https://img.shields.io/github/followers/Harshadc5?style=for-the-badge"/></a>
 </p>
 
