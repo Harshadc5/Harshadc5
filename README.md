@@ -45,7 +45,7 @@ Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT
 ---
 
 # 🚀 Featured Projects
-<p align="center">
+
 | Project | Description | Stack |
 |---------|-------------|------|
 | 🧠 JavaScript Analytics Tag | Privacy-first analytics platform for modern e-commerce | JS • FastAPI • Node |
@@ -53,7 +53,7 @@ Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT
 | 🔊 InsightVoice | OCR + multilingual Text/Image to Speech | Flask • OCR • gTTS |
 | 🏫 School Management System | Student management & document generation | Java • SQL |
 | 🚜 ShetiPump | Agriculture-focused software solution | Full Stack |
-</p>
+
 ---
 
 <h2 align="center">🏆 GitHub Profile</h2>
