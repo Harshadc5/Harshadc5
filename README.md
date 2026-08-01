@@ -1,7 +1,4 @@
-from pathlib import Path
-import pypandoc
-
-md = r'''<div align="center">
+<div align="center">
 
 # Hi, I'm Harshad Chaudhari 👋
 
@@ -114,7 +111,4 @@ I build intelligent software that combines **AI, automation, and full-stack engi
 ⭐ If you like my work, consider starring my repositories.
 
 </div>
-'''
-path="/mnt/data/README.md"
-Path(path).write_text(md,encoding="utf-8")
-print(path)
+
