@@ -7,7 +7,10 @@ md = r'''<div align="center">
 
 ### AI Engineer • Full-Stack Developer • Building AI-powered software with real-world impact
 
-
+<p align="center">
+  <a 
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge">
+  </a>
   <a href="https://www.linkedin.com/in/harshad05">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
