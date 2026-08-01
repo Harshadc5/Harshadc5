@@ -47,35 +47,44 @@ Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
-| Project | Overview |
-|---|---|
-| 🧠 JavaScript Analytics Platform | Privacy-conscious analytics for e-commerce websites |
-| 🌿 Potato Disease Classification | Deep-learning based crop disease detection |
-| 🔊 InsightVoice | OCR + multilingual text/image-to-speech platform |
-| 🏫 School Management System | Student records & document generation |
-| 🚜 ShetiPump | Agriculture-focused software |
+| Project | Description | Stack |
+|---------|-------------|------|
+| 🧠 JavaScript Analytics Tag | Privacy-first analytics platform for modern e-commerce | JS • FastAPI • Node |
+| 🌿 Potato Disease Classification | CNN model for crop disease detection | TensorFlow • Python |
+| 🔊 InsightVoice | OCR + multilingual Text/Image to Speech | Flask • OCR • gTTS |
+| 🏫 School Management System | Student management & document generation | Java • SQL |
+| 🚜 ShetiPump | Agriculture-focused software solution | Full Stack |
 
 ---
 
-# 📈 GitHub Snapshot
+<h2 align="center">🏆 GitHub Profile</h2>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshadc5&theme=github_dark"/>
 </p>
 
+---
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshadc5&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadc5&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Harshadc5&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshadc5&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Harshadc5&theme=github-dark-blue&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshadc5&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshadc5&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshadc5&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
