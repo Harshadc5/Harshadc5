@@ -1,15 +1,16 @@
 from pathlib import Path
+import pypandoc
 
-content = r"""<div align="center">
+md = r"""<div align="center">
 
 # Harshad Chaudhari
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full-Stack+Developer;Machine+Learning+Builder;Open+Source+Contributor;Building+Technology+for+Real-World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1200&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Building+Intelligent+Products;Machine+Learning+%7C+Automation+%7C+Cloud;Open+Source+Contributor" />
 
-### AI Engineer • Full-Stack Developer • Machine Learning
+### Building software that solves real-world problems with AI.
 
 <p>
-<a href="https://rtfolio-three-beige-2l8e4l9ouk.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge"/></a>
+<a href="https://rtfolio-three-beige-2l8e4l9ouk.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-2563EB?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/harshad05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:harshadchaudhari2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Harshadc5"><img src="https://img.shields.io/github/followers/Harshadc5?style=for-the-badge"/></a>
@@ -19,64 +20,39 @@ content = r"""<div align="center">
 
 ---
 
-# 👋 About
+# 👨‍💻 About
 
-I build software that combines **Artificial Intelligence**, **automation**, and **full-stack engineering** to solve practical problems.
+I build **AI-powered applications, intelligent automation, and full-stack software** with an emphasis on usability, maintainability, and measurable impact.
 
-My interests include intelligent systems, developer tooling, analytics platforms, cloud-native applications, and products that make technology more useful and accessible.
+My interests include:
 
-- 🎓 B.Tech Computer Science (AI & ML), VIT Bhopal University
-- 🚀 Focused on AI, Full-Stack Engineering & Automation
-- 🌱 Continuously learning distributed systems and cloud architecture
-- 🤝 Open to internships, collaborations and open-source
+- Artificial Intelligence & Machine Learning
+- Full-Stack Engineering
+- Developer Tooling
+- Analytics Platforms
+- Cloud-native Applications
 
----
-
-# 🚀 Current Focus
-
-- Building AI-powered applications
-- JavaScript analytics platform
-- Intelligent automation tools
-- Production-ready full-stack systems
-- Open-source contributions
+Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT Bhopal University**.
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Work
 
-| Project | Description | Stack |
-|---------|-------------|------|
-| 🧠 JavaScript Analytics Tag | Privacy-first analytics platform for modern e-commerce | JS • FastAPI • Node |
-| 🌿 Potato Disease Classification | CNN model for crop disease detection | TensorFlow • Python |
-| 🔊 InsightVoice | OCR + multilingual Text/Image to Speech | Flask • OCR • gTTS |
-| 🏫 School Management System | Student management & document generation | Java • SQL |
-| 🚜 ShetiPump | Agriculture-focused software solution | Full Stack |
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-`Python` `JavaScript` `Java` `C++`
-
-### Frontend
-`React` `HTML` `CSS` `Bootstrap`
-
-### Backend
-`FastAPI` `Flask` `Node.js`
-
-### AI / ML
-`TensorFlow` `NumPy` `Pandas`
-
-### Database
-`MongoDB` `MySQL`
-
-### Cloud & DevOps
-`AWS` `Docker` `Git` `Linux`
+| Project | Overview |
+|---|---|
+| 🧠 JavaScript Analytics Platform | Privacy-conscious analytics for e-commerce websites |
+| 🌿 Potato Disease Classification | Deep-learning based crop disease detection |
+| 🔊 InsightVoice | OCR + multilingual text/image-to-speech platform |
+| 🏫 School Management System | Student records & document generation |
+| 🚜 ShetiPump | Agriculture-focused software |
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Snapshot
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshadc5&theme=github_dark"/>
+</p>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshadc5&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -93,47 +69,67 @@ My interests include intelligent systems, developer tooling, analytics platforms
 
 ---
 
-# 🎯 Engineering Philosophy
+# 🛠 Technology
 
-> **Great software isn't measured by complexity—it's measured by the value it creates.**
+### Languages
+Python • JavaScript • Java • C++
 
-I enjoy building software that is:
-- Reliable
-- Maintainable
-- Scalable
-- User-focused
+### AI / ML
+TensorFlow • NumPy • Pandas • OpenCV
+
+### Frontend
+React • HTML • CSS • Bootstrap
+
+### Backend
+FastAPI • Flask • Node.js
+
+### Database
+MongoDB • MySQL
+
+### Cloud
+AWS • Docker • Git • Linux
 
 ---
 
-# 📜 Certifications & Learning
+# 🏅 Highlights
 
-- IBM Professional Certifications
-- Cisco Networking
-- MATLAB Certification
-- Coursera AI & ML Courses
-- Continuous self-learning through real-world projects
+- 💡 AI & ML focused engineering
+- 🚀 Portfolio of end-to-end software projects
+- 🌱 Continuous learner
+- 🤝 Open to collaboration and internships
+- 📚 Active in open-source and practical software development
+
+---
+
+# 🗺 Roadmap
+
+- [ ] AI Agents
+- [ ] Production-grade SaaS
+- [ ] Cloud certifications
+- [ ] System Design
+- [ ] Open-source contributions
 
 ---
 
 # 🌐 Connect
 
-- **Portfolio:** https://rtfolio-three-beige-2l8e4l9ouk.vercel.app
-- **LinkedIn:** https://www.linkedin.com/in/harshad05
-- **GitHub:** https://github.com/Harshadc5
-- **Email:** harshadchaudhari2005@gmail.com
+| Platform | Link |
+|---|---|
+| Portfolio | https://rtfolio-three-beige-2l8e4l9ouk.vercel.app |
+| LinkedIn | https://www.linkedin.com/in/harshad05 |
+| GitHub | https://github.com/Harshadc5 |
+| Email | harshadchaudhari2005@gmail.com |
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### "Build things people genuinely enjoy using."
 
-*Building intelligent software that creates real-world impact.*
-
-⭐ If you enjoy my work, consider starring my repositories.
+⭐ Thanks for visiting my profile.
 
 </div>
 """
-path="/mnt/data/Premium_GitHub_Profile_README.md"
-Path(path).write_text(content,encoding="utf-8")
-print(path)
+out="/mnt/data/GitHub_Profile_README_V4.md"
+Path(out).write_text(md,encoding="utf-8")
+print(out)
