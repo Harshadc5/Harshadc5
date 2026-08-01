@@ -1,7 +1,4 @@
-from pathlib import Path
-import pypandoc
-
-md = r"""<div align="center">
+<div align="center">
 
 # Harshad Chaudhari
 
@@ -149,7 +146,4 @@ AWS • Docker • Git • Linux
 ⭐ Thanks for visiting my profile.
 
 </div>
-"""
-out="/mnt/data/GitHub_Profile_README_V4.md"
-Path(out).write_text(md,encoding="utf-8")
-print(out)
+
