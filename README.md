@@ -7,7 +7,7 @@
 ### Building software that solves real-world problems with AI.
 
 <p align="center">
-  <a href="https://rtfolio-three-beige-2l8e4l9ouk.vercel.app">
+  <a href="rtfolio-three-beige-2l8e4l9ouk.vercel.app">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge" />
   </a>
 
