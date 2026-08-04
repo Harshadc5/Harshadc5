@@ -1,6 +1,6 @@
 <div align="center">
 
-# Harshad Chaudhariihs
+# Harshad Chaudhari
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1200&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Building+Intelligent+Products;Machine+Learning+%7C+Automation+%7C+Cloud;Open+Source+Contributor" />
 
