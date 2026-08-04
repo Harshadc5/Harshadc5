@@ -56,18 +56,11 @@ Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT
 
 ---
 
-<h2 align="center">🏆 GitHub Profile</h2>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshadc5&theme=github_dark"/>
-</p>
-
----
-
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Harshadc5&theme=github-dark-blue&hide_border=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=Harshadc5&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
