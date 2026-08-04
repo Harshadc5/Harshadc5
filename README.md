@@ -67,7 +67,7 @@ Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshadc5&theme=github-dark-blue&hide_border=true" />
+ <img src="https://streak-stats.demolab.com?user=Harshadc5&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
