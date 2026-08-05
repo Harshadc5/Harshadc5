@@ -126,7 +126,7 @@ AWS • Docker • Git • Linux
 
 | Platform | Link |
 |---|---|
-| Portfolio | https://rtfolio-three-beige-2l8e4l9ouk.vercel.app |
+| Portfolio | https://portfolio-three-beige-2l8e4l9ouk.vercel.app |
 | LinkedIn | https://www.linkedin.com/in/harshad05 |
 | GitHub | https://github.com/Harshadc5 |
 | Email | harshadchaudhari2005@gmail.com |
