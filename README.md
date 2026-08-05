@@ -67,10 +67,10 @@ Currently pursuing **B.Tech in Computer Science Engineering (AI & ML)** at **VIT
 
 
 <h2 align="center">📈 Contribution Graph</h2>
-
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshadc5&theme=github-dark&hide_border=true&area=true" />
-</p>
+</p>-->
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshadc5&show_icons=true&theme=github_dark&hide_border=true"/>
