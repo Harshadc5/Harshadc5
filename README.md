@@ -124,12 +124,24 @@ AWS • Docker • Git • Linux
 
 # 🌐 Connect
 
-| Platform | Link |
-|---|---|
-| Portfolio | https://portfolio-three-beige-2l8e4l9ouk.vercel.app |
-| LinkedIn | https://www.linkedin.com/in/harshad05 |
-| GitHub | https://github.com/Harshadc5 |
-| Email | harshadchaudhari2005@gmail.com |
+<p align="center">
+  <a href="https://portfolio-three-beige-2l8e4l9ouk.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshad05">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:harshadchaudhari2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Harshadc5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
